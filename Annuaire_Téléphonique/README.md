@@ -1,5 +1,3 @@
-# Travail pratique 01 programmation_web_3
-
 ### Architecture app
 ```
 tp01
