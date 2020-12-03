@@ -4,10 +4,10 @@
 ```
 tp01
     ├── client (contient les fichiers pour l'application cliente)
-    ├── server (contient les fichier pour le serveur de donnees)
+    ├── server (contient les fichier pour le serveur de données)
 ```
 
-### Configuration et installation des dependances
+### Configuration et installation des dépendances
 ```
 cd ./client
 npm install
@@ -15,7 +15,7 @@ cd ../server
 npm install
 ```
 
-### Lancer projet avec serveur de donnees
+### Lancer projet avec serveur de données
 ```bash
 cd ./client
 npm run serve
@@ -23,8 +23,8 @@ cd ../server
 npm run start
 ```
 
-### Routes pour serveur de donnes
-- Les routes seront affichees dans le terminal apres l'execution de `npm run start`
+### Routes pour serveur de données
+- Les routes seront affichées dans le terminal apres l'exécution de `npm run start`
 - Fichier db.json se trouve dans : [./server/data/db.json](url)
 ```
 http://localhost:3000 # Home  
