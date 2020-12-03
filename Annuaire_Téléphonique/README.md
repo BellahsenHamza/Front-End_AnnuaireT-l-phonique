@@ -24,9 +24,8 @@ npm run start
 ```
 
 ### Routes pour serveur de donnes
-- Les routes seront affiches dans le terminal apres l'execution de `npm run start`
+- Les routes seront affichees dans le terminal apres l'execution de `npm run start`
 - Fichier db.json se trouve dans : [./server/data/db.json](url)
-- **Ajouter les routes au fur et a mesure qu'on ajoute des donnees**
 ```
 http://localhost:3000 # Home  
 http://localhost:3000/contacts    GET
